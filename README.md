@@ -183,19 +183,5 @@ Challenge-Amigo-Secreto/
 **Deyanira Cerda** - *deyaniracerdag*
 
 - 🌐 **GitHub**: [@deyaniracerdag](https://github.com/deyaniracerdag/SecretFriends.git)
-- 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/emanuel-lopez-f/)
+- 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/deyanira-cerda-gonzález-1a4aa3232/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-### 🏆 Sobre el Desarrollador
-
-Estudiante del programa **ONE (Oracle Next Education)** en colaboración con **Alura**, enfocado en desarrollar habilidades sólidas en programación frontend y lógica de programación. Este proyecto representa parte del aprendizaje práctico en JavaScript y desarrollo web.
-
----
-
-## 🎓 Agradecimientos
-
-- **Oracle**: Por proporcionar la plataforma educativa ONE
-- **Alura**: Por los excelentes cursos y challenges prácticos
-- **Comunidad**: Por el apoio y feedback constante
-- **Instructores**: Por la guía y mentoria en el aprendizaje
-
----
